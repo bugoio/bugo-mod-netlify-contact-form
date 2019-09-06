@@ -123,4 +123,8 @@ $danger:        {{ .Site.Params.theme_colors.danger | default "#dc3545" }};
       grid-area: input;
     }
   }
+
+  .form-footer {
+      margin-bottom: 2rem;
+  }
 }
