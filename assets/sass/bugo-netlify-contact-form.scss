@@ -1,5 +1,8 @@
-@import "custom-variables.scss";
+/**
+ *  BUGO NETLIFY CONTACT FORM
+ **/
 
+ @import "bugo-netlify-contact-vars";
 
 #netlify-contact-form{
   max-width: 75vw;
@@ -26,3 +29,4 @@
       margin-bottom: 2rem;
   }
 }
+
