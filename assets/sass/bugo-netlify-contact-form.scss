@@ -3,6 +3,9 @@
  **/
 
  @import "bugo-netlify-contact-vars";
+ @debug "Loading Bugo Netlify Contact Form Module SASS";
+  @import "custom-variables";
+
 
 #netlify-contact-form{
   max-width: 75vw;
